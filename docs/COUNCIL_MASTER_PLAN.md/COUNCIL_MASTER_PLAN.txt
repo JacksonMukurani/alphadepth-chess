@@ -1,0 +1,23 @@
+# ALPHADEPTH PROJECT - MASTER PLAN
+
+## PHASE 1: SETUP (THIS WEEK)
+- Create project structure
+- Set up basic files
+- Plan the architecture
+
+## PHASE 2: CHESS ENGINE (NEXT WEEK)  
+- Install Stockfish
+- Create analysis API
+- Build database
+
+## PHASE 3: WEBSITE (WEEK 3)
+- Create React frontend
+- Add chess board
+- Connect to backend
+
+TEAM:
+- Coder: Technical stuff
+- Finance: Money & business
+- Creative: Design & looks
+- Content: Writing & messages
+- App Planner: Organization
